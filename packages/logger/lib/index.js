@@ -15,7 +15,7 @@ winston.addColors({
   error: 'red',
   warn: 'yellow'
 })
-const logger = winston.createLogger({
+const logger = new winston.Logger({
   transports: [
     new winston.transports.Console(options)
   ]
