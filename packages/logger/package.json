@@ -1,0 +1,25 @@
+{
+  "name": "@stae/logger",
+  "version": "0.0.1",
+  "description": "Stae core logger",
+  "author": "Stae",
+  "homepage": "https://github.com/staeco/modules#readme",
+  "license": "UNLICENSED",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staeco/modules.git"
+  },
+  "bugs": {
+    "url": "https://github.com/staeco/modules/issues"
+  },
+  "dependencies": {
+    "winston": "^3.2.1"
+  }
+}
