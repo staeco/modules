@@ -1,0 +1,42 @@
+{
+  "name": "@stae/babel-client",
+  "version": "0.0.1",
+  "description": "Stae client babel config ",
+  "homepage": "https://github.com/staeco/modules#readme",
+  "bugs": {
+    "url": "https://github.com/staeco/modules/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staeco/modules.git"
+  },
+  "license": "UNLICENSED",
+  "author": "Stae",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.0.0",
+    "@babel/plugin-proposal-decorators": "^7.0.0",
+    "@babel/plugin-proposal-object-rest-spread": "^7.0.0",
+    "@babel/plugin-proposal-optional-chaining": "^7.2.0",
+    "@babel/plugin-syntax-dynamic-import": "^7.0.0",
+    "@babel/plugin-transform-react-constant-elements": "^7.0.0",
+    "@babel/plugin-transform-react-inline-elements": "^7.0.0",
+    "@babel/plugin-transform-react-jsx-source": "^7.0.0",
+    "@babel/plugin-transform-runtime": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-plugin-closure-elimination": "^1.3.0",
+    "babel-plugin-transform-react-class-displayname": "^1.0.1",
+    "babel-plugin-transform-react-pure-class-to-function": "^1.0.1",
+    "babel-plugin-transform-react-remove-prop-types": "^0.4.23"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
