@@ -1,6 +1,6 @@
 {
   "name": "@stae/babel-client",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Stae client babel config ",
   "homepage": "https://github.com/staeco/modules#readme",
   "bugs": {
