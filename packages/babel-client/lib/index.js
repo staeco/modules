@@ -35,8 +35,11 @@ module.exports = {
     },
     "production": {
       "plugins": [
-        //"@babel/transform-react-constant-elements",
-        "@babel/transform-react-inline-elements",
+        "babel-plugin-transform-react-class-displayname",
+        "@babel/plugin-transform-react-jsx-self",
+        "@babel/plugin-transform-react-jsx-source",
+        "@babel/plugin-transform-object-super",
+        "@babel/plugin-transform-react-inline-elements",
         "transform-react-remove-prop-types",
         "closure-elimination"
       ]
