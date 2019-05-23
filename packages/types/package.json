@@ -35,7 +35,7 @@
     "lodash": "^4.17.11",
     "mocha": "^6.1.4",
     "moment": "^2.24.0",
-    "sequelize": "4.44.0",
+    "sequelize": "github:contra/sequelize",
     "should": "^13.2.3",
     "sutro": "^4.7.0",
     "validator": "^10.11.0",
