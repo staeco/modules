@@ -3,7 +3,7 @@
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-exports.jsonPath = exports.select = exports.where = void 0;
+exports.jsonPath = exports.select = exports.value = exports.where = void 0;
 
 var _queryGenerator = _interopRequireDefault(require("sequelize/lib/dialects/postgres/query-generator"));
 
@@ -17,6 +17,10 @@ const qg = new _queryGenerator.default({
 const where = (...a) => qg.getWhereConditions(...a);
 
 exports.where = where;
+
+const value = (...a) => qg.handleSequelizeMethod(...a);
+
+exports.value = value;
 
 const select = (v, tableName, model) => qg.selectQuery(tableName, v, model);
 
