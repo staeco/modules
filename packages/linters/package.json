@@ -1,6 +1,6 @@
 {
   "name": "@stae/linters",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Stae core linters",
   "author": "Steve Lacy <me@slacy.me>",
   "homepage": "https://github.com/staeco/modules#readme",
