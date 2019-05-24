@@ -1,0 +1,25 @@
+{
+  "name": "@stae/linters",
+  "version": "0.0.1",
+  "description": "Stae core linters",
+  "author": "Steve Lacy <me@slacy.me>",
+  "homepage": "https://github.com/staeco/modules#readme",
+  "license": "UNLICENSED",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staeco/modules.git"
+  },
+  "bugs": {
+    "url": "https://github.com/staeco/modules/issues"
+  }
+}
