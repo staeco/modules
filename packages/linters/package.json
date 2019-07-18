@@ -10,6 +10,7 @@
     "lib": "lib"
   },
   "dependencies": {
+    "babel-eslint": "^10.0.0",
     "eslint-plugin-array-func": "^3.0.0",
     "eslint-plugin-babel": "^5.1.0",
     "eslint-plugin-compat": "^2.0.0",
