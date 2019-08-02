@@ -14,10 +14,7 @@ module.exports = {
       "modules": "auto",
       "loose": true,
       "useBuiltIns": "usage",
-      "corejs": {
-        "version": 3,
-        "proposals": true
-      }
+      "corejs": 3
     }]
   ],
   "env": {
