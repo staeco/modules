@@ -20,7 +20,10 @@ module.exports = {
       "modules": "auto",
       "loose": true,
       "useBuiltIns": "usage",
-      "corejs": "core-js@2"
+      "corejs": {
+        "version": 3,
+        "proposals": true
+      }
     }],
     "@babel/preset-react"
   ],
