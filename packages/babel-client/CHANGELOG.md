@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.8](https://github.com/staeco/modules/compare/@stae/babel-client@0.1.7...@stae/babel-client@0.1.8) (2019-08-02)
+
+
+### Bug Fixes
+
+* final core-js fix - hopefully ([642b162](https://github.com/staeco/modules/commit/642b162))
+
+
+
+
+
 ## [0.1.7](https://github.com/staeco/modules/compare/@stae/babel-client@0.1.6...@stae/babel-client@0.1.7) (2019-08-02)
 
 
