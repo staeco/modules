@@ -1,6 +1,6 @@
 {
   "name": "@stae/babel-node",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Stae node babel config",
   "homepage": "https://github.com/staeco/modules#readme",
   "bugs": {

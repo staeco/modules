@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.3](https://github.com/staeco/modules/compare/@stae/babel-node@0.1.2...@stae/babel-node@0.1.3) (2019-08-02)
+
+
+### Bug Fixes
+
+* update to core-js 3 universally ([ff624f2](https://github.com/staeco/modules/commit/ff624f2))
+
+
+
+
+
 ## [0.1.2](https://github.com/staeco/modules/compare/@stae/babel-node@0.1.1...@stae/babel-node@0.1.2) (2019-08-02)
 
 
