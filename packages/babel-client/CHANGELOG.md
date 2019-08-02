@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.6](https://github.com/staeco/modules/compare/@stae/babel-client@0.1.5...@stae/babel-client@0.1.6) (2019-08-02)
+
+
+### Bug Fixes
+
+* add missing dep ([5c7bc92](https://github.com/staeco/modules/commit/5c7bc92))
+
+
+
+
+
 ## [0.1.5](https://github.com/staeco/modules/compare/@stae/babel-client@0.1.4...@stae/babel-client@0.1.5) (2019-08-02)
 
 

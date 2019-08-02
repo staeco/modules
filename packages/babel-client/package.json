@@ -1,6 +1,6 @@
 {
   "name": "@stae/babel-client",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Stae client babel config ",
   "homepage": "https://github.com/staeco/modules#readme",
   "bugs": {
@@ -39,8 +39,8 @@
     "babel-plugin-transform-react-class-displayname": "^1.0.1",
     "babel-plugin-transform-react-pure-class-to-function": "^1.0.1",
     "babel-plugin-transform-react-remove-prop-types": "^0.4.23",
-    "react-hot-loader": "4.4.0-1",
-    "core-js": "^3.0.0"
+    "core-js": "^3.0.0",
+    "react-hot-loader": "4.4.0-1"
   },
   "publishConfig": {
     "access": "public"
