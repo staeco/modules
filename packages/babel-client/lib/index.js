@@ -9,7 +9,8 @@ module.exports = {
     ["@babel/plugin-proposal-class-properties", { "loose": true }],
     ["@babel/plugin-proposal-object-rest-spread", { "useBuiltIns": true }],
     "transform-react-pure-class-to-function",
-    "@babel/plugin-proposal-optional-chaining"
+    "@babel/plugin-proposal-optional-chaining",
+    "@babel/plugin-transform-object-super"
   ],
   "presets": [
     ["@babel/preset-env", {
@@ -35,10 +36,6 @@ module.exports = {
     },
     "production": {
       "plugins": [
-        "babel-plugin-transform-react-class-displayname",
-        "@babel/plugin-transform-react-jsx-self",
-        "@babel/plugin-transform-react-jsx-source",
-        "@babel/plugin-transform-object-super",
         "@babel/plugin-transform-react-inline-elements",
         "transform-react-remove-prop-types",
         "closure-elimination"
