@@ -244,6 +244,7 @@ module.exports = {
     ],
     strict: 0,
     yoda: 1,
+    'require-atomic-updates': 0, // always has false positives
     'no-loops/no-loops': 2,
     'import/first': 2,
     'import/no-duplicates': 2,
