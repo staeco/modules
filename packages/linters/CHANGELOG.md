@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.6](https://github.com/staeco/modules/compare/@stae/linters@0.1.5...@stae/linters@0.1.6) (2019-09-03)
+
+
+### Bug Fixes
+
+* disable require-atomic-updates ([4260b3a](https://github.com/staeco/modules/commit/4260b3a))
+
+
+
+
+
 ## [0.1.5](https://github.com/staeco/modules/compare/@stae/linters@0.1.4...@stae/linters@0.1.5) (2019-09-03)
 
 
