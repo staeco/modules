@@ -213,6 +213,8 @@ module.exports = {
       }
     ],
     'react/no-unused-state': 2,
+    'react/no-unused-prop-types': 2,
+    'react/default-props-match-prop-types': 2,
     'react/no-typos': 1,
     'react/void-dom-elements-no-children': 2,
     'react/no-access-state-in-setstate': 2,
