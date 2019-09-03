@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.7](https://github.com/staeco/modules/compare/@stae/linters@0.1.6...@stae/linters@0.1.7) (2019-09-03)
+
+
+### Bug Fixes
+
+* react version ([025c6fc](https://github.com/staeco/modules/commit/025c6fc))
+
+
+
+
+
 ## [0.1.6](https://github.com/staeco/modules/compare/@stae/linters@0.1.5...@stae/linters@0.1.6) (2019-09-03)
 
 
