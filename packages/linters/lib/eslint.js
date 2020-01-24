@@ -274,6 +274,7 @@ module.exports = {
     'promise/avoid-new': 'off',
     'promise/no-new-statics': 'error',
     'promise/no-return-in-finally': 'error',
-    'promise/valid-params': 'error'
+    'promise/valid-params': 'error',
+    'quote-props': [ 'error', 'as-needed' ]
   }
 }
