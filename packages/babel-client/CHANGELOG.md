@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.11](https://github.com/staeco/modules/compare/@stae/babel-client@0.1.10...@stae/babel-client@0.1.11) (2020-02-04)
+
+
+### Bug Fixes
+
+* support ie8 ([a3c8261](https://github.com/staeco/modules/commit/a3c8261))
+
+
+
+
+
 ## [0.1.10](https://github.com/staeco/modules/compare/@stae/babel-client@0.1.9...@stae/babel-client@0.1.10) (2020-01-24)
 
 **Note:** Version bump only for package @stae/babel-client
