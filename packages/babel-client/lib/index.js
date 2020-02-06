@@ -10,7 +10,8 @@ module.exports = {
     ["@babel/plugin-proposal-object-rest-spread", { "useBuiltIns": true }],
     "transform-react-pure-class-to-function",
     "@babel/plugin-proposal-optional-chaining",
-    "@babel/plugin-transform-object-super"
+    "@babel/plugin-transform-object-super",
+    "babel-plugin-dynamic-import-polyfill" // fix for https://github.com/babel/babel/issues/9872
   ],
   "presets": [
     ["@babel/preset-env", {
