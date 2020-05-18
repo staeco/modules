@@ -8,6 +8,7 @@ module.exports = {
     ["@babel/plugin-proposal-decorators", { "legacy": true }],
     ["@babel/plugin-proposal-class-properties", { "loose": true }],
     ["@babel/plugin-proposal-object-rest-spread", { "useBuiltIns": true }],
+    "transform-react-pure-class-to-function",
     "@babel/plugin-proposal-optional-chaining",
     "@babel/plugin-transform-object-super",
     "babel-plugin-dynamic-import-polyfill" // fix for https://github.com/babel/babel/issues/9872
@@ -22,11 +23,22 @@ module.exports = {
       "loose": true,
       "useBuiltIns": "usage",
       "corejs": 3
-    }]
+    }],
+    "@babel/preset-react"
   ],
   "env": {
+    "development": {
+      "plugins": [
+        "react-hot-loader/babel",
+        "babel-plugin-transform-react-class-displayname",
+        "@babel/plugin-transform-react-jsx-self",
+        "@babel/plugin-transform-react-jsx-source"
+      ]
+    },
     "production": {
       "plugins": [
+        "@babel/plugin-transform-react-inline-elements",
+        "transform-react-remove-prop-types",
         "closure-elimination"
       ]
     }
