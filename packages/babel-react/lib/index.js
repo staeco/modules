@@ -17,7 +17,7 @@ module.exports = {
     ["@babel/preset-env", {
       "targets": {
         "node": "current",
-        "browsers": ["> 2%", "last 3 versions", "ie >= 7"]
+        "browsers": ["> 2%", "last 2 versions", "not ie < 11"]
       },
       "modules": "auto",
       "loose": true,
@@ -37,6 +37,7 @@ module.exports = {
     },
     "production": {
       "plugins": [
+        "@babel/transform-react-constant-elements",
         "@babel/plugin-transform-react-inline-elements",
         "transform-react-remove-prop-types",
         "closure-elimination"
