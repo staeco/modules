@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.14](https://github.com/staeco/modules/compare/@stae/babel-client@0.1.13...@stae/babel-client@0.1.14) (2020-05-22)
+
+**Note:** Version bump only for package @stae/babel-client
+
+
+
+
+
 ## [0.1.13](https://github.com/staeco/modules/compare/@stae/babel-client@0.1.12...@stae/babel-client@0.1.13) (2020-05-18)
 
 **Note:** Version bump only for package @stae/babel-client
