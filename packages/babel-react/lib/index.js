@@ -37,9 +37,9 @@ module.exports = {
     },
     "production": {
       "plugins": [
-        "@babel/transform-react-constant-elements",
         "@babel/plugin-transform-react-inline-elements",
         "transform-react-remove-prop-types",
+        "@babel/transform-react-constant-elements",
         "closure-elimination"
       ]
     }
