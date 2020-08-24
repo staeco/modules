@@ -1,6 +1,6 @@
 {
   "name": "@stae/linters",
-  "version": "0.1.11",
+  "version": "1.0.0",
   "description": "Stae core linters",
   "homepage": "https://github.com/staeco/modules#readme",
   "license": "UNLICENSED",
