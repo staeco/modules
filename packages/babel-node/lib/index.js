@@ -1,6 +1,6 @@
 module.exports = {
   "plugins": [
-    "add-module-exports",
+    "@babel/plugin-transform-modules-commonjs",
     "@babel/syntax-dynamic-import",
     ["@babel/plugin-proposal-class-properties", { "loose": true }],
     ["@babel/plugin-proposal-object-rest-spread", { "useBuiltIns": true }],

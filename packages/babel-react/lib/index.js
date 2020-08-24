@@ -1,6 +1,6 @@
 module.exports = {
   "plugins": [
-    "add-module-exports",
+    "@babel/plugin-transform-modules-commonjs",
     "@babel/syntax-dynamic-import",
     // decorators must be before class-properties
     // legacy decorator behavior means class props needs "loose" mode
