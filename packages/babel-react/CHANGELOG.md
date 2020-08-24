@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.1](https://github.com/staeco/modules/compare/@stae/babel-react@0.1.17...@stae/babel-react@1.0.1) (2020-08-24)
+
+
+### Bug Fixes
+
+* release ([8e3fb97](https://github.com/staeco/modules/commit/8e3fb97cdff51d694f95459c78f45816cce302dc))
+
+
+
+
+
 ## [0.1.17](https://github.com/staeco/modules/compare/@stae/babel-react@0.1.15...@stae/babel-react@0.1.17) (2020-08-24)
 
 
