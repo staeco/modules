@@ -1,6 +1,6 @@
 {
   "name": "@stae/babel-react",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Stae client react babel config",
   "homepage": "https://github.com/staeco/modules#readme",
   "bugs": {
