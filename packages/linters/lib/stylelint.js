@@ -39,7 +39,7 @@ module.exports = {
     ],
     'plugin/8-point-grid': {
       base: 4,
-      ignore: [
+      ignorelist: [
         'width',
         'height',
         'min-width',
