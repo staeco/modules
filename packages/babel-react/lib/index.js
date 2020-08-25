@@ -1,5 +1,6 @@
 module.exports = {
   "plugins": [
+    "react-imported-component/babel",
     "add-module-exports",
     "@babel/syntax-dynamic-import",
     // decorators must be before class-properties

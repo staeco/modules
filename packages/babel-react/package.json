@@ -39,7 +39,8 @@
     "babel-plugin-transform-react-class-displayname": "^1.0.1",
     "babel-plugin-transform-react-pure-class-to-function": "^1.0.1",
     "babel-plugin-transform-react-remove-prop-types": "^0.4.23",
-    "react-hot-loader": "4.4.0-1"
+    "react-hot-loader": "^4.0.0",
+    "react-imported-component": "^6.3.11"
   },
   "publishConfig": {
     "access": "public"
