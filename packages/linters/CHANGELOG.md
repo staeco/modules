@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.2](https://github.com/staeco/modules/compare/@stae/linters@1.0.1...@stae/linters@1.0.2) (2020-08-25)
+
+
+### Bug Fixes
+
+* stylelint ([8a2fe63](https://github.com/staeco/modules/commit/8a2fe63926fd5574facbb08a63931e5c9ec982cb))
+
+
+
+
+
 ## [1.0.1](https://github.com/staeco/modules/compare/@stae/linters@0.1.11...@stae/linters@1.0.1) (2020-08-24)
 
 **Note:** Version bump only for package @stae/linters
