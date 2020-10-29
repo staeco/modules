@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.3](https://github.com/staeco/modules/compare/@stae/linters@1.0.2...@stae/linters@1.0.3) (2020-10-29)
+
+
+### Bug Fixes
+
+* jsx indent config ([43d2215](https://github.com/staeco/modules/commit/43d22157d7bd60fa5c7dc9f4615a0e03ec9c1ebe))
+
+
+
+
+
 ## [1.0.2](https://github.com/staeco/modules/compare/@stae/linters@1.0.1...@stae/linters@1.0.2) (2020-08-25)
 
 
