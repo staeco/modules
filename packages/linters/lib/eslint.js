@@ -84,7 +84,11 @@ module.exports = {
       'error',
       2,
       {
-        SwitchCase: 1
+        SwitchCase: 1,
+        ignoredNodes: [
+          'JSXAttribute',
+          'JSXSpreadAttribute'
+        ]
       }
     ],
     'jsx-quotes': [
