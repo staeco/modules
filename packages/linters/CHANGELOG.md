@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.1.0](https://github.com/staeco/modules/compare/@stae/linters@1.0.4...@stae/linters@1.1.0) (2020-11-04)
+
+
+### Features
+
+* add no magic numbers ([5192cfa](https://github.com/staeco/modules/commit/5192cfa2cfdbb2d6f2179308c0dec109b79f6b02))
+
+
+
+
+
 ## [1.0.4](https://github.com/staeco/modules/compare/@stae/linters@1.0.3...@stae/linters@1.0.4) (2020-11-04)
 
 
