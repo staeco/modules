@@ -1,3 +1,7 @@
+const { STATUS_CODES } = require('http')
+
+const codes = Object.keys(STATUS_CODES).map((i) => parseInt(i))
+
 module.exports = {
   globals: {
     __DEV__: true,
@@ -17,7 +21,7 @@ module.exports = {
   settings: {
     react: {
       pragma: 'React',
-      version: '16.13'
+      version: '16.14'
     }
   },
   env: {
@@ -144,6 +148,19 @@ module.exports = {
     'prefer-promise-reject-errors': 1,
     'prefer-template': 1,
     'prefer-arrow-callback': 1,
+    'no-magic-numbers': [
+      'error',
+      {
+        ignore: [
+          0, -1, 1, 0.1, 0.01, // just common for conversions
+          24, 60, 1000, // dates
+          ...codes // http status codes
+        ],
+        ignoreArrayIndexes: true,
+        ignoreDefaultValues: true,
+        detectObjects: false
+      }
+    ],
     'arrow-body-style': [
       'error',
       'as-needed'
