@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.4](https://github.com/staeco/modules/compare/@stae/linters@1.0.3...@stae/linters@1.0.4) (2020-11-04)
+
+
+### Bug Fixes
+
+* infix ops spacing ([2d4a040](https://github.com/staeco/modules/commit/2d4a0400b0d83c13891408a61ce76c09831339c4))
+
+
+
+
+
 ## [1.0.3](https://github.com/staeco/modules/compare/@stae/linters@1.0.2...@stae/linters@1.0.3) (2020-10-29)
 
 
