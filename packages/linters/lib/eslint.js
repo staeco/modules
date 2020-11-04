@@ -129,6 +129,10 @@ module.exports = {
     'no-var': 2,
     'no-with': 1,
     'vars-on-top': 1,
+    'space-infix-ops': [
+      'error',
+      { int32Hint: false }
+    ],
     'object-curly-spacing': [
       2,
       'always'
