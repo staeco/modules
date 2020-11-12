@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.5](https://github.com/staeco/modules/compare/@stae/babel-client@1.0.4...@stae/babel-client@1.0.5) (2020-11-12)
+
+
+### Bug Fixes
+
+* tree shaking ([e413f41](https://github.com/staeco/modules/commit/e413f4173aff11b168f83bfc48c8a1ae8476534b))
+
+
+
+
+
 ## [1.0.4](https://github.com/staeco/modules/compare/@stae/babel-client@1.0.3...@stae/babel-client@1.0.4) (2020-11-12)
 
 
