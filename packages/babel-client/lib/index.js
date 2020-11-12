@@ -2,7 +2,6 @@
 module.exports = {
   "plugins": [
     "react-imported-component/babel",
-    "add-module-exports",
     "@babel/syntax-dynamic-import",
     // decorators must be before class-properties
     // legacy decorator behavior means class props needs "loose" mode
@@ -19,7 +18,7 @@ module.exports = {
         "node": "current",
         "browsers": ["> 2%", "last 2 versions", "not ie < 11"]
       },
-      "modules": "auto",
+      "modules": false,
       "loose": true,
       "useBuiltIns": "usage",
       "corejs": 3
