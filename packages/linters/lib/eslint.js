@@ -180,6 +180,8 @@ module.exports = {
         allowTemplateLiterals: true
       }
     ],
+    'react/jsx-uses-react': 0,
+    'react/react-in-jsx-scope': 0,
     'react/forbid-prop-types': 0,
     'react/jsx-boolean-value': 1,
     'react/jsx-closing-bracket-location': [
