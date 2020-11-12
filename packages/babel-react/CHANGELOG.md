@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.5](https://github.com/staeco/modules/compare/@stae/babel-react@1.0.4...@stae/babel-react@1.0.5) (2020-11-12)
+
+
+### Bug Fixes
+
+* reset babel configs for client ([64feed5](https://github.com/staeco/modules/commit/64feed5a485c8a1e683ce04a40ba47ee8a492893))
+
+
+
+
+
 ## [1.0.4](https://github.com/staeco/modules/compare/@stae/babel-react@1.0.3...@stae/babel-react@1.0.4) (2020-08-25)
 
 **Note:** Version bump only for package @stae/babel-react
