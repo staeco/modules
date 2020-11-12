@@ -1,5 +1,7 @@
+// Designed for whole front-end projects
 module.exports = {
   "plugins": [
+    "react-imported-component/babel",
     "add-module-exports",
     "@babel/syntax-dynamic-import",
     // decorators must be before class-properties
@@ -8,7 +10,6 @@ module.exports = {
     ["@babel/plugin-proposal-decorators", { "legacy": true }],
     ["@babel/plugin-proposal-class-properties", { "loose": true }],
     ["@babel/plugin-proposal-object-rest-spread", { "useBuiltIns": true }],
-    "@babel/plugin-proposal-optional-chaining",
     "@babel/plugin-transform-object-super",
     "babel-plugin-dynamic-import-polyfill" // fix for https://github.com/babel/babel/issues/9872
   ],
@@ -22,11 +23,23 @@ module.exports = {
       "loose": true,
       "useBuiltIns": "usage",
       "corejs": 3
-    }]
+    }],
+    [ "@babel/preset-react", { "runtime": "automatic" } ]
   ],
   "env": {
+    "development": {
+      "plugins": [
+        "react-hot-loader/babel",
+        "babel-plugin-transform-react-class-displayname",
+        "@babel/plugin-transform-react-jsx-self",
+        "@babel/plugin-transform-react-jsx-source"
+      ]
+    },
     "production": {
       "plugins": [
+        "@babel/plugin-transform-react-inline-elements",
+        "transform-react-remove-prop-types",
+        "@babel/transform-react-constant-elements",
         "closure-elimination"
       ]
     }
