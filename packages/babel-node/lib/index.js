@@ -4,7 +4,7 @@ module.exports = {
     "@babel/syntax-dynamic-import",
     ["@babel/plugin-proposal-class-properties", { "loose": true }],
     ["@babel/plugin-proposal-object-rest-spread", { "useBuiltIns": true }],
-    "@babel/plugin-proposal-optional-chaining"
+    "closure-elimination"
   ],
   "presets": [
     ["@babel/preset-env", {
@@ -16,12 +16,5 @@ module.exports = {
       "useBuiltIns": "usage",
       "corejs": 3
     }]
-  ],
-  "env": {
-    "production": {
-      "plugins": [
-        "closure-elimination"
-      ]
-    }
-  }
+  ]
 }
