@@ -18,7 +18,7 @@ module.exports = {
         "node": "current",
         "browsers": ["> 2%", "last 2 versions", "not ie < 11"]
       },
-      "modules": false,
+      "modules": "auto",
       "loose": true,
       "useBuiltIns": "usage",
       "corejs": 3
