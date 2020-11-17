@@ -1,6 +1,9 @@
 const { STATUS_CODES } = require('http')
 
-const codes = Object.keys(STATUS_CODES).map((i) => parseInt(i))
+const codes = [
+  ...Object.keys(STATUS_CODES).map((i) => parseInt(i)),
+  420, 444, 449, 499 // non-standard codes
+]
 
 module.exports = {
   globals: {
