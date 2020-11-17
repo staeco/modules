@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.2](https://github.com/staeco/modules/compare/@stae/linters@1.1.1...@stae/linters@1.1.2) (2020-11-17)
+
+
+### Bug Fixes
+
+* add more status codes ([ba517b2](https://github.com/staeco/modules/commit/ba517b25391bffeff8edc108bf597c86db614b60))
+
+
+
+
+
 ## [1.1.1](https://github.com/staeco/modules/compare/@stae/linters@1.1.0...@stae/linters@1.1.1) (2020-11-12)
 
 **Note:** Version bump only for package @stae/linters
