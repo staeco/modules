@@ -8,7 +8,6 @@ module.exports = {
     // https://babeljs.io/docs/en/next/babel-plugin-proposal-decorators.html#legacy
     ["@babel/plugin-proposal-decorators", { "legacy": true }],
     ["@babel/plugin-proposal-class-properties", { "loose": true }],
-    ["@babel/plugin-proposal-object-rest-spread", { "useBuiltIns": true }],
     "@babel/plugin-transform-object-super",
     "babel-plugin-dynamic-import-polyfill" // fix for https://github.com/babel/babel/issues/9872
   ],
