@@ -7,6 +7,7 @@ module.exports = {
     // https://babeljs.io/docs/en/next/babel-plugin-proposal-decorators.html#legacy
     ["@babel/plugin-proposal-decorators", { "legacy": true }],
     ["@babel/plugin-proposal-class-properties", { "loose": true }],
+    ["@babel/plugin-proposal-object-rest-spread", { "loose": true, "useBuiltIns": true }], // force it to use Object.assign
     "transform-react-pure-class-to-function",
     "@babel/plugin-transform-object-super"
   ],
