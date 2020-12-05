@@ -2,6 +2,7 @@ module.exports = {
   "plugins": [
     "add-module-exports",
     "@babel/syntax-dynamic-import",
+    ["@babel/plugin-proposal-class-properties", { "loose": true }],
     "closure-elimination"
   ],
   "presets": [
