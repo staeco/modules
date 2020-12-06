@@ -1,11 +1,3 @@
-# `@stae/babel-node`
+# babel-browser
 
-> TODO: description
-
-## Usage
-
-```
-const babelNode = require('@stae/babel-node');
-
-// TODO: DEMONSTRATE API
-```
+Used for plain node compilation.

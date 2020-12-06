@@ -1,11 +1,3 @@
-# `babel-core`
+# babel-browser
 
-> TODO: description
-
-## Usage
-
-```
-const babelCore = require('babel-core');
-
-// TODO: DEMONSTRATE API
-```
+Used for compiling a full client with webpack.
