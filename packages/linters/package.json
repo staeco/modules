@@ -40,5 +40,8 @@
   },
   "bugs": {
     "url": "https://github.com/staeco/modules/issues"
+  },
+  "devDependencies": {
+    "eslint-plugin-cypress": "^2.11.2"
   }
 }
