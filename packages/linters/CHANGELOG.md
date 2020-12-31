@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.3](https://github.com/staeco/modules/compare/@stae/linters@1.1.2...@stae/linters@1.1.3) (2020-12-31)
+
+
+### Bug Fixes
+
+* remove empty devdeps key ([6e62907](https://github.com/staeco/modules/commit/6e6290702fd85237f88873aa0a0906411b3f9796))
+
+
+
+
+
 ## [1.1.2](https://github.com/staeco/modules/compare/@stae/linters@1.1.1...@stae/linters@1.1.2) (2020-11-17)
 
 
