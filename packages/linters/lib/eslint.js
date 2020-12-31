@@ -36,7 +36,8 @@ module.exports = {
   extends: [
     'eslint:recommended',
     'plugin:react/recommended',
-    'plugin:array-func/recommended'
+    'plugin:array-func/recommended',
+    'plugin:cypress/recommended'
   ],
   plugins: [
     'babel',
