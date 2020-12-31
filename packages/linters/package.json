@@ -41,6 +41,5 @@
   },
   "bugs": {
     "url": "https://github.com/staeco/modules/issues"
-  },
-  "devDependencies": {}
+  }
 }
