@@ -156,7 +156,7 @@ module.exports = {
       'error',
       {
         ignore: [
-          0, -1, 1, 0.1, 0.01, // just common for conversions
+          0, -1, 1, 0.1, 0.01, 0.5, 0.25, // just common for conversions
           24, 60, 1000, // dates
           ...codes // http status codes
         ],
