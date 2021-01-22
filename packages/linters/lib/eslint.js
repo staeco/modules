@@ -12,7 +12,7 @@ module.exports = {
     __PROD__: true,
     util: true
   },
-  parser: 'babel-eslint',
+  parser: '@babel/eslint-parser',
   parserOptions: {
     ecmaFeatures: {
       jsx: true,
@@ -40,7 +40,7 @@ module.exports = {
     'plugin:cypress/recommended'
   ],
   plugins: [
-    'babel',
+    '@babel',
     'react',
     'mocha',
     'compat',
