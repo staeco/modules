@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.6](https://github.com/staeco/modules/compare/@stae/linters@1.1.5...@stae/linters@1.1.6) (2021-01-23)
+
+
+### Bug Fixes
+
+* eslint ([a0dd21a](https://github.com/staeco/modules/commit/a0dd21ab39539eecb36b2cd4525c26d974f6636c))
+
+
+
+
+
 ## [1.1.5](https://github.com/staeco/modules/compare/@stae/linters@1.1.4...@stae/linters@1.1.5) (2021-01-22)
 
 **Note:** Version bump only for package @stae/linters
