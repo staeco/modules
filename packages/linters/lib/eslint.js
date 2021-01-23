@@ -19,7 +19,8 @@ module.exports = {
       legacyDecorators: true
     },
     ecmaVersion: 2016,
-    sourceType: 'module'
+    sourceType: 'module',
+    requireConfigFile: false
   },
   settings: {
     react: {
