@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/staeco/modules/compare/@stae/babel-client@1.1.0...@stae/babel-client@1.2.0) (2021-02-27)
+
+
+### Features
+
+* update browserlist ([40bc13c](https://github.com/staeco/modules/commit/40bc13c04ffd74ec5c511321d72c8569042346d8))
+
+
+
+
+
 # [1.1.0](https://github.com/staeco/modules/compare/@stae/babel-client@1.0.8...@stae/babel-client@1.1.0) (2020-12-06)
 
 

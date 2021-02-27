@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/staeco/modules/compare/@stae/babel-react@1.1.0...@stae/babel-react@1.2.0) (2021-02-27)
+
+
+### Features
+
+* update browserlist ([46ef358](https://github.com/staeco/modules/commit/46ef35836c1b553afa153c7da3b801beb5d93eed))
+
+
+
+
+
 # [1.1.0](https://github.com/staeco/modules/compare/@stae/babel-react@1.0.7...@stae/babel-react@1.1.0) (2020-12-06)
 
 
