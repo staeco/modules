@@ -15,7 +15,7 @@ module.exports = {
     ["@babel/preset-env", {
       "targets": {
         "node": "current",
-        "browsers": ["> 2%", "last 2 versions", "not dead"]
+        "browsers": [ ">2%", "last 2 versions", "not dead" ]
       },
       "modules": "auto",
       "loose": true,
