@@ -331,7 +331,6 @@ module.exports = {
     'unicorn/number-literal-case': 'error',
     'unicorn/prefer-add-event-listener': 'error',
     'unicorn/prefer-array-find': 'error',
-    'unicorn/prefer-array-flat': 'error',
     'unicorn/prefer-array-flat-map': 'error',
     'unicorn/prefer-array-index-of': 'error',
     'unicorn/prefer-array-some': 'error',
