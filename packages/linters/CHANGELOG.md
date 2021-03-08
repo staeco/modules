@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.1](https://github.com/staeco/modules/compare/@stae/linters@1.2.0...@stae/linters@1.2.1) (2021-03-08)
+
+
+### Bug Fixes
+
+* dep ([3205804](https://github.com/staeco/modules/commit/3205804db2045a994fd007c7a3a84c66cc95197a))
+
+
+
+
+
 # [1.2.0](https://github.com/staeco/modules/compare/@stae/linters@1.1.6...@stae/linters@1.2.0) (2021-03-08)
 
 
