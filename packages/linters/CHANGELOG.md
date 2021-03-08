@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.3](https://github.com/staeco/modules/compare/@stae/linters@1.2.2...@stae/linters@1.2.3) (2021-03-08)
+
+
+### Bug Fixes
+
+* lax some lint rules ([65b560b](https://github.com/staeco/modules/commit/65b560ba06c064a2e5c8eb2d493d886ce8e1aa09))
+
+
+
+
+
 ## [1.2.2](https://github.com/staeco/modules/compare/@stae/linters@1.2.1...@stae/linters@1.2.2) (2021-03-08)
 
 
