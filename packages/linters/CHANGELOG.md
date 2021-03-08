@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.4](https://github.com/staeco/modules/compare/@stae/linters@1.2.3...@stae/linters@1.2.4) (2021-03-08)
+
+
+### Bug Fixes
+
+* remove broken unsafe regex linter ([8ea9c1a](https://github.com/staeco/modules/commit/8ea9c1ab367e5c1656779bb8b17f9dbf8868bde6))
+
+
+
+
+
 ## [1.2.3](https://github.com/staeco/modules/compare/@stae/linters@1.2.2...@stae/linters@1.2.3) (2021-03-08)
 
 
