@@ -27,7 +27,7 @@
     "stylelint": "^13.0.0",
     "stylelint-8-point-grid": "^1.0.0",
     "stylelint-config-prettier": "^8.0.0",
-    "stylelint-config-sass-guidelines": "^7.0.0",
+    "stylelint-config-sass-guidelines": "^8.0.0",
     "stylelint-declaration-strict-value": "^1.1.3",
     "stylelint-prettier": "^1.0.7"
   },
