@@ -3,6 +3,7 @@ module.exports = {
     "add-module-exports",
     "@babel/syntax-dynamic-import",
     ["@babel/plugin-proposal-class-properties", { "loose": true }],
+    "@babel/plugin-proposal-nullish-coalescing-operator",
     "closure-elimination"
   ],
   "presets": [

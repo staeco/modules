@@ -8,6 +8,7 @@ module.exports = {
     ["@babel/plugin-proposal-decorators", { "legacy": true }],
     ["@babel/plugin-proposal-class-properties", { "loose": true }],
     ["@babel/plugin-proposal-object-rest-spread", { "loose": true, "useBuiltIns": true }], // force it to use Object.assign
+    "@babel/plugin-proposal-nullish-coalescing-operator",
     "@babel/plugin-transform-object-super",
     "closure-elimination"
   ],
