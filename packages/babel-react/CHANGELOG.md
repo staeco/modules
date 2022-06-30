@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.2](https://github.com/staeco/modules/compare/@stae/babel-react@1.2.1...@stae/babel-react@1.2.2) (2022-06-30)
+
+
+### Bug Fixes
+
+* null operator ([4bb9615](https://github.com/staeco/modules/commit/4bb96153dac5d0bc51810300d533c053e19f7348))
+
+
+
+
+
 ## [1.2.1](https://github.com/staeco/modules/compare/@stae/babel-react@1.2.0...@stae/babel-react@1.2.1) (2021-02-27)
 
 **Note:** Version bump only for package @stae/babel-react

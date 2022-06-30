@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.1](https://github.com/staeco/modules/compare/@stae/babel-node@1.1.0...@stae/babel-node@1.1.1) (2022-06-30)
+
+
+### Bug Fixes
+
+* null operator ([4bb9615](https://github.com/staeco/modules/commit/4bb96153dac5d0bc51810300d533c053e19f7348))
+
+
+
+
+
 # [1.1.0](https://github.com/staeco/modules/compare/@stae/babel-node@1.0.6...@stae/babel-node@1.1.0) (2020-12-06)
 
 
