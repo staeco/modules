@@ -19,6 +19,9 @@ module.exports = {
         "node": "current",
         "browsers": [ ">2%", "last 2 versions", "not dead" ]
       },
+      "include": [
+        "@babel/plugin-proposal-nullish-coalescing-operator"
+      ],
       "modules": "auto",
       "loose": true,
       "useBuiltIns": "usage",
