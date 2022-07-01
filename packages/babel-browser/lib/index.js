@@ -15,11 +15,8 @@ module.exports = {
     ["@babel/preset-env", {
       "targets": {
         "node": "current",
-        "browsers": [ ">2%", "last 2 versions", "not dead" ]
+        "browsers": [ ">1%", "last 2 versions", "not ie <= 8" ]
       },
-      "include": [
-        "@babel/plugin-proposal-nullish-coalescing-operator"
-      ],
       "modules": "auto",
       "loose": true,
       "useBuiltIns": "usage",
