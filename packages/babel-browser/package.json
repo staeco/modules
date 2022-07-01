@@ -1,6 +1,6 @@
 {
   "name": "@stae/babel-browser",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "Stae browser babel config",
   "homepage": "https://github.com/staeco/modules#readme",
   "bugs": {
